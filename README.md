@@ -102,7 +102,7 @@ RTqPCR_data_analysis(
 ![Boxplot](man/figures/boxplot_all.jpeg)
 *Figure 1. Boxplot.*
 
-![Fold Change Treatment vs Control](fold_Livak_individual.jpeg)
+![Fold_Change_TreatmentvsControl](man/figures/fold_Livak_individual.jpeg)
 *Figure 2. Several Treatment vs Control individual plots.*
 ---
 
