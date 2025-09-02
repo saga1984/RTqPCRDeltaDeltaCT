@@ -99,9 +99,9 @@ RTqPCR_data_analysis(
 > **Note on naming:** with multiple reference genes, names are joined by `_` (e.g., `Ubiq_Rps1`).
 > **Note on columns:** the script stores the Fold Change (2^-ΔΔCt) in a column named `log2FC`. If you truly need log2 scale, compute `log2(Fold Change)` downstream.
 
-![Boxplot](man/figures/boxplot_all.jpeg)
+> [Boxplot](man/figures/boxplot_all.jpeg)
 
-![FoldChange](man/figures/FC_BoxPlot_Agrupados_Estadisticos_ERF03.jpeg)
+> [Fold Change Treatment vs Control] (fold_Livak_articulo_endogenos_Quantification_Cq_Results_1_18Jul2024_ABA_ABI5_PsbA_ATP6.jpeg)
 
 ---
 
@@ -157,6 +157,8 @@ The script includes examples to:
   * Optional `*.pdf`, `*.png`, `*.svg` via **svglite**
 * **Global R objects** (for reuse):
   `big_df_bar_*`, `big_df_box_*`, `FC_barplot_agrupado_*`, `log2FC_barplot_agrupado_*`, etc., are assigned into `.GlobalEnv`.
+
+> [FoldChange Grouped Plot](man/figures/FC_BoxPlot_Agrupados_Estadisticos_ERF03.jpeg)
 
 ---
 
