@@ -102,7 +102,7 @@ RTqPCR_data_analysis(
 ![Boxplot](man/figures/boxplot_all.jpeg)
 *Figure 1. Boxplot.*
 
-![Fold Change Treatment vs Control] (fold_Livak_articulo_endogenos_Quantification_Cq_Results_1_18Jul2024_ABA_ABI5_PsbA_ATP6.jpeg)
+![Fold Change Treatment vs Control](fold_Livak_individual.jpeg)
 *Figure 2. Several Treatment vs Control individual plots.*
 ---
 
