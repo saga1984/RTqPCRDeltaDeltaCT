@@ -99,6 +99,10 @@ RTqPCR_data_analysis(
 > **Note on naming:** with multiple reference genes, names are joined by `_` (e.g., `Ubiq_Rps1`).
 > **Note on columns:** the script stores the Fold Change (2^-ΔΔCt) in a column named `log2FC`. If you truly need log2 scale, compute `log2(Fold Change)` downstream.
 
+![Boxplot](man/figures/boxplot_all.jpeg)
+
+![FoldChange](man/figures/FC_BoxPlot_Agrupados_Estadisticos_ERF03.jpeg)
+
 ---
 
 ## Script 2 — `RTqPCR_data_analysis_unir_datos`
